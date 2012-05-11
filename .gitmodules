@@ -1,3 +1,0 @@
-[submodule "symfony"]
-	path = symfony
-	url = git://github.com/sbusch/symfony
